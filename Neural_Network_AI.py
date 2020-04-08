@@ -99,7 +99,7 @@ class Dqn():
         #still exploring the other actions
         #so we input q-values that we get from our neural network
         #to softmax() and get their probabilities
-        probs = F.softmax(self.model(Variable(state,volatile = True))*7) #T=7
+        probs = F.softmax(self.model(Variable(state,volatile = True))*100) #T=100
         action = probs.multinomial(num_samples=1) #random draw from the distribution
         return action.data[0,0]
     
