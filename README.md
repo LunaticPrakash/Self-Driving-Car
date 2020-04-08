@@ -55,10 +55,10 @@ not hit it. Initially it may hit the curves(boundaries) but eventually within a 
 
 ## Outputs
 Initially when you just run the program this is how it looks like
-![GUI WIndow](Outputs/DrawingCurves.mkv)
+![GUI WIndow](Outputs/GuiWindow.png)
 
 Drawing boundaries or curves with mouse
-![Drawing Curves](Outputs/DrawingCurves.mkv)
+![Drawing Curves](Outputs/DrawingCurves.gif)
 
 Graph to see our car mind
 ![Graph](Outputs/MindGraph.png)
