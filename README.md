@@ -58,7 +58,7 @@ Initially when you just run the program this is how it looks like
 ![GUI WIndow](Outputs/GuiWindow.png)
 
 Drawing boundaries or curves with mouse
-![Drawing Curves](Outputs/DrawingCurves.mp4)
+![Drawing Curves](Outputs/DrawingCurves.mkv)
 
 Graph to see our car mind
 ![Graph](Outputs/MindGraph.png)
