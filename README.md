@@ -58,10 +58,10 @@ Initially when you just run the program this is how it looks like
 ![GUI WIndow](Outputs/GuiWindow.png)
 
 Drawing boundaries or curves with mouse
-![GUI WIndow](Outputs/DrawingCurves.mp4)
+![Drawing Curves](Outputs/DrawingCurves.mp4)
 
 Graph to see our car mind
-![GUI WIndow](Outputs/MindGraph.png)
+![Graph](Outputs/MindGraph.png)
 
 
 ## Bugs and Improvements :-
