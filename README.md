@@ -57,8 +57,8 @@ not hit it. Initially it may hit the curves(boundaries) but eventually within a 
 Initially when you just run the program this is how it looks like
 ![GUI WIndow](Outputs/GuiWindow.png)
 
-After drawing boundaries or curves with mouse
-![GUI WIndow](Outputs/Drawing_Curves.png)
+Drawing boundaries or curves with mouse
+![GUI WIndow](Outputs/DrawingCurves.mp4)
 
 Graph to see our car mind
 ![GUI WIndow](Outputs/MindGraph.png)
