@@ -40,7 +40,7 @@ That's all extra Modules you need. NOw you are ready to autopilot the script xD.
 - It will then automatically launch a new window like shown below in **Output** section where our Self Driving Car will be doing its movement and learning from its experiences.
 
 
-## Features and Extras
+## Features and Extras :-
 
 - There will 3 options on the GUI window opened after launching the program. Those are : **clear**, **save**, **load**.
 
@@ -53,7 +53,7 @@ not hit it. Initially it may hit the curves(boundaries) but eventually within a 
 
 - By **clear** option you can clear the drawn curves on the GUI. Its basically like eraser.
 
-## Outputs
+## Outputs :-
 Initially when you just run the program this is how it looks like
 ![GUI WIndow](Outputs/GuiWindow.png)
 
@@ -63,7 +63,7 @@ Drawing boundaries or curves with mouse
 Graph to see our car mind
 ![Graph](Outputs/MindGraph.png)
 
-## Suggestion 
+## Suggestion :-
 If you are here for Deep Learning or A.I. just don't worry about Kivy and its contents. They are not necessary for learning Artificial Intelligence.
 
 
