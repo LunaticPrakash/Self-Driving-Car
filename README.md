@@ -67,7 +67,7 @@ Graph to see our car mind
 ## Bugs and Improvements :-
 
 - No known bugs.
-- But in Spyder IDE you have to restart the kernel after running this program, to run this program again.(Shortcut for Restarting Kernel in Spyder IDE is **Ctrl + .**, works when your cursor is in IpythonConsole)
+- But in Spyder IDE you have to restart the kernel after running this program, to run this program again.(Shortcut for Restarting Kernel in Spyder IDE is **Ctrl + .** it works when your cursor is in IpythonConsole)
 
 ## Dev :- Prakash Gupta
 
