@@ -21,17 +21,17 @@ class Network(nn.Module):
         super(Network,self).__init__() #to use all tools of nn.Module
         self.input_size = input_size
         self.nb_action = nb_action
-        self.fc1 = nn.Linear(in_features= input_size, out_features=30, bias=True) #to make full connection between neuron
+        self.fc1 = nn.Linear(in_features= input_size, out_features=60, bias=True) #to make full connection between neuron
         #of input layer with neuron of hidden layer
         #in_features= no.of neurons of input layer you want to connect with hidden layer
         #out_features= no.of neurons of hidden layer you want to connect with output layer(totally experimental)
         
-        self.fc2 = nn.Linear(in_features=30, out_features=nb_action, bias=True) #to make full connection between neuron
+        self.fc2 = nn.Linear(in_features=60, out_features=nb_action, bias=True) #to make full connection between neuron
         #of hidden layer with neuron of output layer
          #in_features= no.of neurons of hidden layer you want to connect with output layer
         #out_features= no.of neurons of output layer you want to connect with output layer(totally experimental)
         
-    #So, now we have 5 input neurons, 30 hidden neurons,and 3 output neurons    
+    #So, now we have 5 input neurons, 60 hidden neurons,and 3 output neurons    
     
     
     #function to activate neurons and return the q_values for each state
