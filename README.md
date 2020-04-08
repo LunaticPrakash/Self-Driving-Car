@@ -55,7 +55,7 @@ not hit it. Initially it may hit the curves(boundaries) but eventually within a 
 
 ## Outputs
 Initially when you just run the program this is how it looks like
-![GUI WIndow](Outputs/GuiWindow.png)
+![GUI WIndow](Outputs/DrawingCurves.mkv)
 
 Drawing boundaries or curves with mouse
 ![Drawing Curves](Outputs/DrawingCurves.mkv)
