@@ -63,6 +63,9 @@ Drawing boundaries or curves with mouse
 Graph to see our car mind
 ![Graph](Outputs/MindGraph.png)
 
+## Suggestion 
+If you are here for Deep Learning or A.I. just don't worry about Kivy and its contents. They are not necessary for learning Artificial Intelligence.
+
 
 ## Bugs and Improvements :-
 
