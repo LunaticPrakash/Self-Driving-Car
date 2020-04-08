@@ -58,7 +58,7 @@ Initially when you just run the program this is how it looks like
 ![GUI WIndow](Outputs/GuiWindow.png)
 
 After drawing boundaries or curves with mouse
-![GUI WIndow](Outputs/Drawing_Curves.png.png)
+![GUI WIndow](Outputs/Drawing_Curves.png)
 
 Graph to see our car mind
 ![GUI WIndow](Outputs/MindGraph.png)
@@ -67,7 +67,7 @@ Graph to see our car mind
 ## Bugs and Improvements :-
 
 - No known bugs.
-- But in Spyder IDE you have to restart the kernel after running this program, to run this program again.(Shortcut for Restarting Kernel in Spyder IDE is **Ctrl + .**, works when your cursor is in console)
+- But in Spyder IDE you have to restart the kernel after running this program, to run this program again.(Shortcut for Restarting Kernel in Spyder IDE is **Ctrl + .**, works when your cursor is in IpythonConsole)
 
 ## Dev :- Prakash Gupta
 
